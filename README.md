@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project was to display the power of Java Script. Java Script is what makes this password generator work. Depending on what criteria you choose, it will make a password that suits your needs. 
+The purpose of this project was to display the power of Java Script and api's. I used Jquary with JS and Bootstrap for the CSS. The project came together and had less code than if I didn't use API's.
 
 ## Table of Contents
 
@@ -23,10 +23,10 @@ N/A
 Now you can go on the hosted page and schedule out your day anf have it save it to your local stroage. You can go the website with this URL. 
 https://jedichang99.github.io/work_day_scheduler/
 
-![The Whole Page](photos/wholePage.png)
-![HTML Code](photos/HTML.png)
-![JS Code](photos/JS.png)
-![New Form](photos/Form.png)
+![The Whole Page](photos/whole.png)
+![Local Storage](photos/HTML.png)
+![Save Button](photos/btn.png)
+![date that updates](date/Form.png)
 
 ## Credits
 
